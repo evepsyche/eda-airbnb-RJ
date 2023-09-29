@@ -1,6 +1,7 @@
 # Análise Exploratória dos dados do Airbnb do Rio de Janeiro.
 <img src="https://images.unsplash.com/photo-1626568940331-b9efa277b000?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1374&q=80" alt="RJ">
 
+[Artigo no Medium](https://medium.com/@lainetnr/análise-exploratória-de-dados-eda-com-python-airbnb-no-rio-de-janeiro-68ad7ef2e93a) sobre a análise.
 ## Sobre os dados
 Os dados foram coletados através do portal [Inside Airbnb]( https://insideairbnb.com/get-the-data ) e o arquivo utilizado foi o de nome 'listings.csv' que refere-se a informações resumidas e métricas para listagens no Rio do Janeiro, como é descrito no próprio portal. Também foi usado o arquivo 'neighbourhoods.geojson', com geolocalização para criação de um mapa interativo.
 
